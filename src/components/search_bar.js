@@ -20,9 +20,3 @@ export default class Searchbar extends Component {
             this.props.onSearchTermChange(term);
         }
 }
-
-/*const Searchbar = () => {
-    return <input />;
-};
-
-export default Searchbar;*/
